@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Simple PDF Creator</string>
+
+    <string name="create_status_success">PDF have been created</string>
+    <string name="create_status_fail">Error while creating PDF</string>
+</resources>
